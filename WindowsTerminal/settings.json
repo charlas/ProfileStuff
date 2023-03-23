@@ -39,11 +39,11 @@
         [
             {
                 "backgroundImage": "C:\\Users\\ashle\\Documents\\PowerShell_headpic.png",
-                "backgroundImageOpacity": 0.10000000000000001,
+                "backgroundImageOpacity": 0.1,
                 "font": 
                 {
                     "face": "Hack NF",
-                    "size": 10
+                    "size": 10.0
                 },
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
@@ -56,6 +56,8 @@
                 "name": "Command Prompt"
             },
             {
+                "backgroundImage": "C:\\Users\\ashle\\Documents\\Azure.png",
+                "backgroundImageOpacity": 0.85,
                 "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
                 "hidden": false,
                 "name": "Azure Cloud Shell",
@@ -63,7 +65,7 @@
             },
             {
                 "backgroundImage": "C:\\Users\\ashle\\Documents\\ubuntu.png",
-                "backgroundImageOpacity": 0.20000000000000001,
+                "backgroundImageOpacity": 0.2,
                 "colorScheme": "Ubuntu-ColorScheme",
                 "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
                 "hidden": false,
@@ -322,6 +324,4 @@
             "selectionBackground": "#FFFFFF",
             "white": "#C0C0C0",
             "yellow": "#808000"
-        }
-    ]
-}
+ 
